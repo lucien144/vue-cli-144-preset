@@ -1,2 +1,6 @@
-# vue-cli-144-preset
-Custom Vue3 + TS + Eslint (no Prettier) preset
+# Vue3 preset
+
+- Vue3
+- Typescript
+- Vuex
+- SCSS (dart)
